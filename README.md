@@ -68,7 +68,9 @@
    <h3>Nocta: 실시간 동시편집 마크다운 에디터</h3>
   <p><i>2024.11 - 2025.01</i></p>
   <br>
-  <img src="./nocta-main.png">
+  <a href="https://nocta.site/" target="_blank">
+   <img src="./nocta-main.png">
+  </a>
   
   <br>
   
