@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=4CAD8D&height=300&section=header&text=Yeonkyu%20Min&fontSize=50&fontColor=efefef&animation=fadeIn&desc=Frontend%20Developer&descAlign=56.5&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&color=4CAD8D&repeat=false&width=1000&lines=%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EB%8A%A5%EB%A0%A5%EA%B3%BC+%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98+%ED%96%A5%EC%83%81%EC%9D%84+%EC%B6%94%EA%B5%AC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%AF%BC%EC%97%B0%EA%B7%9C+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=4CAD8D&repeat=false&width=1000&lines=%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EB%8A%A5%EB%A0%A5%EA%B3%BC+%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98+%ED%96%A5%EC%83%81%EC%9D%84+%EC%B6%94%EA%B5%AC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%AF%BC%EC%97%B0%EA%B7%9C+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 
 
 
