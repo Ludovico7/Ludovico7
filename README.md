@@ -63,4 +63,6 @@
 
 ---
 
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hailid3111)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludovico7&layout=donut)
