@@ -39,16 +39,18 @@
 
 ## 🚀 Experience 🚀
 
-### 카카오페이 프론트엔드 인턴
-*2025.04 - 진행중*
+**카카오페이 프론트엔드 인턴**
 
-<img src="https://github.com/user-attachments/assets/f82d0f3c-d347-4c47-9fda-75419d3ff0f2" width="600" />
+*2025.04 -*
 
 
-### 네이버 부스트캠프 Web 9기 (FE)
+
+
+**네이버 부스트캠프 Web 9기 (FE)**
+
 *2024.06 - 2025.02*
 
-<img src="./boostcamp_logo.png" width="600" />
+
 
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boostcampwm-2024)
 
