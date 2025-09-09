@@ -28,15 +28,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-
-## 📗 Studying 📗
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-
 ## 🚀 Experience 🚀
 
 **카카오페이 프론트엔드 인턴**
@@ -66,9 +57,6 @@
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boostcampwm-2024/web33-Nocta)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://abrupt-feta-9a9.notion.site/Glassmo-Web33-12a9ff1b21c38003b600f57baa654626?pvs=74)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0AZAixGrMbo)
-
-팀 프로젝트(FE: 3, BE: 1)  
-#### **마크다운 에디터** 및 **CRDT 라이브러리** 개발 담당
 
 ---
 
